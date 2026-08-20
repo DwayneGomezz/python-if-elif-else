@@ -1,2 +1,2 @@
-# python-if-elif-else
-Exercícios básicos de Python para praticar estruturas condicionais, como if, elif e else.
+## python-if-elif-else
+Basic Python exercises to practice conditional statements, such as `if`, `elif`, and `else`.
